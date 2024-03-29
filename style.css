@@ -6,7 +6,7 @@
 
 
 * {
-  /*outline: 2px solid green;*/
+  outline: 2px solid green;
   background: black;
   color: white;
   margin: 0;
@@ -19,7 +19,7 @@ div {
 }
 
 .main-buttons{
-  margin: 0px;
+  margin: 3px;
   
 }
 
