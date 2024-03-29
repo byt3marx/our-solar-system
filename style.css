@@ -1,0 +1,33 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+
+* {
+  /*outline: 2px solid green;*/
+  background: black;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.main-buttons{
+  margin: 0px;
+  
+}
+
+button:hover{
+  background-color: rgb(38, 51, 82);
+}
+
+.sections {
+  margin: 10px 50px;
+  padding: 10px 50px;
+}
